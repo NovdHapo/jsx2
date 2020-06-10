@@ -1,0 +1,11 @@
+.exp-slider img {
+	width: 300px;
+}
+.exp-slider {
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+}
+.exp-slider button {
+	margin-bottom: 70px;
+}
